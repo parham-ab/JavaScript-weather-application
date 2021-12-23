@@ -21,7 +21,7 @@ button {
     padding: 10px;
     font-weight: bold;
     border-radius: 3px;
-    background-color: #33d9b2;
+    background-color: #33d9b2 !important;
     color: #fff;
     cursor: pointer;
     transition: all .2s;
@@ -64,20 +64,6 @@ img {
 
 .top-banner form input::placeholder {
     color: rgba(255, 255, 255, 0.637);
-}
-
-button {
-    font-size: 1rem;
-    font-weight: bold;
-    border-radius: 5px;
-    background: #33d9b2;
-    transition: all .2s;
-}
-
-button:hover {
-    background: #5bc4ab;
-    transition: all .2s;
-
 }
 
 /* SECTION 2 */
